@@ -17,3 +17,4 @@ The DHT11 measures relative humidity. Relative humidity is the amount of water v
 
 ### Circuit Diagram
 _________
+![image](https://user-images.githubusercontent.com/52891928/73139792-4a2c0800-4037-11ea-835e-de828e4483f3.png)
